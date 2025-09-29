@@ -1,0 +1,12 @@
+body{
+           
+ border-color: black;
+ text-align: center;
+ border-width: 5px;
+ border-style: solid;
+ width : 50%;
+ height : 400px;
+ margin-left: 19%;
+ padding : 3%;
+
+}
