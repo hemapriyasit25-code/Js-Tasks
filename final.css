@@ -1,0 +1,34 @@
+body{
+           
+ border-color: black;
+ border-width: 5px;
+ border-style: solid;
+ width : 50%;
+ height : 400px;
+ margin-left: 19%;
+ padding : 3%;
+
+}
+#regist{
+    text-align: center;
+}
+
+#page2{
+    padding-left: 2%;
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+    height : 600px;
+
+}
+#button:hover
+{
+    color:blue;
+    
+}
+#page3
+{
+    text-align: center;
+    font-size: large;
+    color:black
+}
