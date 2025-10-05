@@ -31,16 +31,17 @@ let city = prompt("Enter your city : ") ;
 let eligible;
 
 
+// 3. json format : 
 
-// 3. JSON 
 
-
-const myjson = '{"Name " : "John" , "Birth year " : "2008" ,"Age" : 18 , "City" : " Namakkal" }'
-
-const x = JSON.stringify(myjson);
-const y =JSON.parse(myjson);
-console.log(x);
-console.log(y);
+var output={
+    " Name ":name ,
+    " Birth Year ":birth ,
+    " City ":city
+    
+}
+var out= JSON.stringify(output);
+console.log(out);
 
 
 
