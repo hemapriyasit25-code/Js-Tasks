@@ -183,7 +183,8 @@ function delay()
     document.getElementById("grade").textContent= " Total Marks : " + score ;
 
 
-}*/
+}*
+
 
 
 
